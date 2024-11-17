@@ -7,7 +7,7 @@
 
 <p class="h1 text-center">Pictures</p>
 <br />
-<div class="container text-center">
+<div class="container text-center mt-5">
     <center>
         <div id="picture-carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
@@ -33,6 +33,9 @@
                 {/if}
             </div>
         </div>
+        {#if images}
+            <a class="btn btn-secondary mt-3" href="/mikes-hikes">Back To Hikes</a>
+        {/if}
     </center>
 </div>
 
