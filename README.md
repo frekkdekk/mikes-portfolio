@@ -1,38 +1,54 @@
-# sv
+# Mike's Portfolio Repository
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+Thanks for checking out my portfolio! This repository showcases a few projects I've worked on throughout my computer science journey. It is designed to demonstrate my skills in software development, problem-solving, and attention to detail. I hope you find the work here inspiring and informative. 
+ 
+## About Mike
 
-## Creating a project
+I'm Mike; a senior at Western Oregon University pursuing a degree in Computer Science. I thoroughly enjoy web development, creating interactive applications and games, and challenging myself with new technologies. My technical experience spans across multiple programming languages and frameworks, including:
 
-If you're seeing this, you've probably already done this step. Congrats!
+- **Languages:** JavaScript, TypeScript, Python, C#, SQL
+- **Frameworks:** SvelteKit, Flask, ASP.NET MVC
+- **Tools:** Three.js, Bootstrap, Supabase
+- **Databases:** PostgreSQL, MySQL
+---
+## Projects
+### 1. This Site!
+**Technologies Used:** SvelteKit & Bootstrap
 
-```bash
-# create a new project in the current directory
-npx sv create
+- **Description:** Mike's Portfolio is where I've gathered a small collection of the projects I've worked on these last few years pursuing computer science.
+- **Features:** 
+	- SvelteKit
+	- Supabase (PostgreSQL)
+	- Bootstrap
+	- Three.JS
+- **Link:** ==TODO==
 
-# create a new project in my-app
-npx sv create my-app
-```
+### 2. **Mike's Hikes**
+**Technologies Used:** Supabase
 
-## Developing
+- **Description:** A web application that allows users to see what hikes I've been on, and to view the pictures I've taken on those hikes!
+- **Features:** 
+  - Dynamic routing.
+  - Integrated Supabase database for storage of hike data and images.
+  - Responsive design using Bootstrap.
+- **Link:** ==TODO==
+  
+### 3. **Ever Expanse**
+**Technologies Used:** Python (Evennia) & Telnet
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+- **Description:** Ever Expanse is a multi-user dungeon (MUD) that I built using the MUD framework Evennia.
+- **Features:** 
+  - Role-playing in a high-fantasy setting.
+  - Treasure hunting.
+  - Character management
+- **Link:** ==TODO==
 
-```bash
-npm run dev
+### 4. **Delascape**
+**Technologies Used:** Three.JS & Javascript
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+- **Description:** A collection of small projects I made while taking a 3D graphics seminar.
+- **Features:**
+  - Actor search with show results.
+  - Admin panel for managing shows.
+  - Responsive interface using Bootstrap.
+- **Link:** ==TODO==
