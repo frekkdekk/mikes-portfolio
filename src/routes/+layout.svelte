@@ -7,11 +7,11 @@
 			<li class="nav-item">
 				<a class="nav-link" href="/mikes-hikes">Mike's Hikes</a>
 			</li>
-			<li class="nav-item">
-				<a class="nav-link" href="/about">About</a>
-			</li>
             <li class="nav-item">
 				<a class="nav-link" href="/resume">Resume</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="/about">About</a>
 			</li>
 		</ul>
 		
