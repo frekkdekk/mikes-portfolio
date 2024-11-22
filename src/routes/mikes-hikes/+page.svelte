@@ -1,10 +1,10 @@
 <script>
     export let data
-    console.log(data.props)
+    //console.log(data.props)
     const hikes = data.props.hikes
 </script>
 
-<p class="h1 text-center">Mike's Hikes</p>
+<p class="display-4 text-center mt-5">Mike's Hikes</p>
 
 <div class="container mt-5">
     <div class="row">

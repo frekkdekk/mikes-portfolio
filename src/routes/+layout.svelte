@@ -5,7 +5,7 @@
 				<a class="nav-link" href="/">Home</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" href="/mikes-hikes">Mike's Hikes</a>
+				<a class="nav-link" href="/projects">Projects</a>
 			</li>
             <li class="nav-item">
 				<a class="nav-link" href="/resume">Resume</a>
@@ -18,6 +18,6 @@
 	</div>
 </nav>
 
-<div class="mt-5">
+<div class="my-5">
     <slot />
 </div>

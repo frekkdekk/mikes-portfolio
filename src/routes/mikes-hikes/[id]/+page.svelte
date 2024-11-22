@@ -18,17 +18,19 @@
                         </div>
                     {/each}
                     <a class="carousel-control-prev" href="#picture-carousel" role="button" data-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="false">
-                            <i class="bi bi-arrow-left-circle-fill"></i>
-                        </span>
-                        <span class="sr-only">Previous</span>
+                        <!-- <span class="carousel-control-prev-icon" aria-hidden="true">
+                            
+                        </span> -->
+                        <i class="bi bi-arrow-left-circle-fill"></i>
+                        <!-- <span class="sr-only">Previous</span> -->
                     </a>
 
                     <a class="carousel-control-next" href="#picture-carousel" role="button" data-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="false">
-                            <i class="bi bi-arrow-right-circle-fill"></i>
-                        </span>
-                        <span class="sr-only">Next</span>
+                        <!-- <span class="carousel-control-next-icon" aria-hidden="true">
+                            
+                        </span> -->
+                        <i class="bi bi-arrow-right-circle-fill"></i>
+                        <!-- <span class="sr-only">Next</span> -->
                     </a>
                 {/if}
             </div>
@@ -42,14 +44,20 @@
 
 <style>
     .carousel-item img {
-        max-height: 600px;
-        max-width: 850px;
+        max-height: 800px;
+        max-width: 100%;
         object-fit: cover;
         border: 1px solid black;
     }
 
     .carousel-item {
+        max-height: 800px;
         position: relative;
+    }
+    
+    .bi {
+        font-size: 2rem;
+        color: rgb(255, 255, 255);
     }
 </style>
   
