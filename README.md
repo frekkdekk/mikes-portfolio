@@ -21,7 +21,7 @@ I'm Mike; a senior at Western Oregon University pursuing a degree in Computer Sc
 	- Supabase (PostgreSQL)
 	- Bootstrap
 	- Three.JS
-- **Link:** ==TODO==
+- **Link:** [Click Me!](https://mikes-portfolio-two.vercel.app/)
 
 ### 2. **Mike's Hikes**
 **Technologies Used:** Supabase
@@ -31,7 +31,7 @@ I'm Mike; a senior at Western Oregon University pursuing a degree in Computer Sc
   - Dynamic routing.
   - Integrated Supabase database for storage of hike data and images.
   - Responsive design using Bootstrap.
-- **Link:** ==TODO==
+- **Link:** [Click Me!](https://mikes-portfolio-two.vercel.app/mikes-hikes)
   
 ### 3. **Ever Expanse**
 **Technologies Used:** Python (Evennia) & Telnet

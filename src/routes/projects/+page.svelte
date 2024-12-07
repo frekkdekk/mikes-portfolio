@@ -17,6 +17,16 @@
                         <td>A collection of hikes I've been on, with pictures!</td>
                         <td><a href="/mikes-hikes">View</a></td>
                     </tr>
+                    <tr>
+                        <td>Ever Expanse</td>
+                        <td>Multi-User Dungeon(MUD) with classes, treasure, and exploration.</td>
+                        <td><a>*WIP*</a></td>
+                    </tr>
+                    <tr>
+                        <td>Delascape</td>
+                        <td>Playground of 3D graphics built using Three.JS</td>
+                        <td><a>*WIP*</a></td>
+                    </tr>
                 </tbody>
             </table>
         </div>
